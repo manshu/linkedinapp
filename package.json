@@ -1,0 +1,13 @@
+{
+    "name": "image-resize",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^33.0.1",
+        "electron-packager": "^17.1.2"
+    }
+}
